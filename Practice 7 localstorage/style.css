@@ -1,0 +1,13 @@
+#cart-collection {
+    background-color: red;
+    border-radius: 50%;
+    color: #fff;
+    padding: 0px 6px;
+    margin-left: -15px;
+    margin-bottom: 14px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+}
